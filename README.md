@@ -35,3 +35,6 @@ For each roject create new enviroement in conda
 > git commit -m "Commit message"
 6) To push files to git repository
 > git push origin main
+
+#### To create requirment file
+> pipreqs
