@@ -3,7 +3,6 @@ from flask import Flask,request,app,jsonify,url_for,render_template
 import numpy as np
 import pandas as pd
 
-heroku buildpacks:set heroku/python
 
 app = Flask(__name__)
 ## Load the model
