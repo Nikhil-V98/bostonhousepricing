@@ -38,3 +38,5 @@ For each roject create new enviroement in conda
 
 #### To create requirment file
 > pipreqs
+
+Done.
